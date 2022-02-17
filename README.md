@@ -44,11 +44,9 @@ print('Predicted co2 for the corresponding weight and volume',predictedCO2)
 
 
 
-```
+
 ## Output:
 ![](sandeep.png)
-
-### Insert your output
 
 <br>
 
